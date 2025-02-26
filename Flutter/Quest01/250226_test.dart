@@ -48,9 +48,11 @@ class PomodoroTimer {
   }
   // 휴식 세션 (작업 세션과의 분리)
   void _startBreakSession() {
-    // int breakDuration = (cycleCount % 4 == 0) ? longBreakDuration : shortBreakDuration; // 일단은 4 사이클 돌고 프로그램 종료.
-    int breakDuration = (cycleCount % 4 == 0) ? longBreakDuration : shortBreakDuration; // 긴 휴식시간 적용
-    int timeLeft = breakDuration; timeLeft를 breakDuration로 초기화
+    int breakDuration = (cycleCount % 4 == 0) ? longBreakDuration : shortBreakDuration; // 4 사이클 돌고 프로그램 종료. 긴 휴식시간 적용.
+    // 여기서 ?는 null 안정성을 위한 것이 아님. "삼항 연산자"의 기능을 가지고 있음.
+    // ? 앞의 조건 (cycleCount % 4 == 0)가 참이면 longBreakDuration를 선택.
+    // ? 앞의 조건 (cycleCount % 4 == 0)가 거짓이면 shortBreakDuration를 선택.
+    int timeLeft = breakDuration; // timeLeft를 breakDuration로 초기화
 
     Timer.periodic(Duration(seconds: 1), (timer) {
       if (timeLeft > 0) { // 시간이 0초 이상 남았을 때만 실행 
@@ -72,3 +74,9 @@ void main() {
   PomodoroTimer timer = PomodoroTimer();
   timer.start();
 }
+
+// 최종 요약
+// workDuration, shortBreakDuration, longBreakDuration 값을 설정했다.
+// Timer.periodic을 사용하여 매 1초마다 시간이 감소하면서 minute:second 형식으로 출력한다.
+// 타이머가 종료되면 timer.cancel()을 통해 타이머를 종료한다.
+// 새 타이머를 시작하여 각 세션이 정상적으로 반복된다.
