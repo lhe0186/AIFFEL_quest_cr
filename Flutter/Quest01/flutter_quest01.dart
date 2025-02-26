@@ -10,8 +10,6 @@
 // Timer.periodic? : 다트의 비동기 타이머로, 일정한 주기마다 특정 함수를 실행하는 역할을 수행.
 // 일정 간격으로 반복 실행할 때 유용하다.
 
-import 'dart:async'; //Timer를 사용하려면 필요.
-
 import 'dart:async'; // Timer를 사용하기 위해 import 하기.
 
 // Wrong_coding:
