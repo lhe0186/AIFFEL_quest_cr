@@ -86,8 +86,8 @@ https://www.notion.so/image/attachment%3A2a9fdacd-ea33-45b7-a77a-b9cbe53ae61a%3A
 
 
 ## 구현영상 
+[Uploading Screen_recording_20250310_162416.webm…]()
 
-![videoframe_29286](https://github.com/user-attachments/assets/773d2a40-ff28-4321-88c1-34ed52e587d2)
 
 
 ## 참고 학습 자료 
