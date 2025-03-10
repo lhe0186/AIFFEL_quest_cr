@@ -63,19 +63,20 @@
 
 ## 앱 구조도
 
-https://www.notion.so/modulabs/Flutter-04-C2-1af5c8e5427d8079a70dee06b6b7f5c1?pvs=4#1af5c8e5427d80f9ad1ac9bc46bc7d36
+https://www.notion.so/image/attachment%3Acd4f0bad-3568-4935-a0d0-5c33bbe2032b%3Aimage.png?table=block&id=1af5c8e5-427d-80f9-ad1a-c9bc46bc7d36&spaceId=c09f8228-29c7-4dcb-8ca3-1de7d3988fab&width=1800&userId=14dd872b-594c-816c-90b8-0002fe420f87&cache=v2
 
 
 ## 앱 와이어프레임 (사용 툴 : 굿노트)
 
-https://www.notion.so/modulabs/Flutter-04-C2-1af5c8e5427d8079a70dee06b6b7f5c1?pvs=4#1b25c8e5427d8027a145cc695dae4a58
+![image](https://github.com/user-attachments/assets/28dcb528-45b6-4c4c-b958-780ff117896a)
+
 
 
 ## 프로토타이핑 (사용 툴 : creatie)
 
-https://www.notion.so/modulabs/Flutter-04-C2-1af5c8e5427d8079a70dee06b6b7f5c1?pvs=4#1b25c8e5427d80eaa559d05f3c8e1777
-https://www.notion.so/modulabs/Flutter-04-C2-1af5c8e5427d8079a70dee06b6b7f5c1?pvs=4#1b25c8e5427d80e6be0bf11221b905dd
-https://www.notion.so/modulabs/Flutter-04-C2-1af5c8e5427d8079a70dee06b6b7f5c1?pvs=4#1b25c8e5427d80eeb170f8d634202159
+https://www.notion.so/image/attachment%3A07454177-2868-425d-87ab-b452fba45c75%3Aimage.png?table=block&id=1b25c8e5-427d-80ea-a559-d05f3c8e1777&spaceId=c09f8228-29c7-4dcb-8ca3-1de7d3988fab&width=1800&userId=14dd872b-594c-816c-90b8-0002fe420f87&cache=v2
+https://www.notion.so/image/attachment%3A9654103e-896a-488b-a13e-b1965061c114%3Aimage.png?table=block&id=1b25c8e5-427d-80e6-be0b-f11221b905dd&spaceId=c09f8228-29c7-4dcb-8ca3-1de7d3988fab&width=1800&userId=14dd872b-594c-816c-90b8-0002fe420f87&cache=v2
+https://www.notion.so/image/attachment%3A2a9fdacd-ea33-45b7-a77a-b9cbe53ae61a%3Aimage.png?table=block&id=1b25c8e5-427d-80ee-b170-f8d634202159&spaceId=c09f8228-29c7-4dcb-8ca3-1de7d3988fab&width=1800&userId=14dd872b-594c-816c-90b8-0002fe420f87&cache=v2
 
 
 ## 페이지 구현
