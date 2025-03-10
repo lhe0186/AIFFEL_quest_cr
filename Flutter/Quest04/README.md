@@ -87,8 +87,7 @@ https://www.notion.so/image/attachment%3A2a9fdacd-ea33-45b7-a77a-b9cbe53ae61a%3A
 
 ## 구현영상 
 
-file:///Users/i_haeun/Desktop/%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%86%AF_%5B%E1%84%8F%E1%85%A9%E1%84%8B%E1%85%A5%5D/Screen_recording_20250310_162416.webm
-
+![videoframe_29286](https://github.com/user-attachments/assets/773d2a40-ff28-4321-88c1-34ed52e587d2)
 
 
 ## 참고 학습 자료 
